@@ -1,0 +1,11 @@
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/bin/Debug/netcoreapp2.1/cosoleProject.deps.json
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/bin/Debug/netcoreapp2.1/cosoleProject.runtimeconfig.json
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/bin/Debug/netcoreapp2.1/cosoleProject.runtimeconfig.dev.json
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/bin/Debug/netcoreapp2.1/cosoleProject.dll
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/bin/Debug/netcoreapp2.1/cosoleProject.pdb
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.csprojAssemblyReference.cache
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.csproj.CoreCompileInputs.cache
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.AssemblyInfoInputs.cache
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.AssemblyInfo.cs
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.dll
+/Users/daniellarasanchez/ProjectsASPNET/pluralsightMVC/cosoleProject/obj/Debug/netcoreapp2.1/cosoleProject.pdb

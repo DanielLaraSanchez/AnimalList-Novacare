@@ -1,0 +1,59 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\js\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\App\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\css\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Entities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="OdeToCode.UseNodeModules" Version="1.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\index.html" />
+    <Content Remove="wwwroot\img\SK-A-3307.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3340.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3341.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3477.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3934.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3981.jpg" />
+    <Content Remove="wwwroot\img\SK-A-3982.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4019.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4050.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4057.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4096.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4119.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4674.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4691.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4717.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4833.jpg" />
+    <Content Remove="wwwroot\img\SK-A-4885.jpg" />
+    <Content Remove="wwwroot\img\SK-A-5033.jpg" />
+    <Content Remove="wwwroot\img\SK-C-5.jpg" />
+    <Content Remove="wwwroot\img\SK-C-6.jpg" />
+    <Content Remove="wwwroot\img\SK-C-216.jpg" />
+    <Content Remove="wwwroot\img\SK-C-251.jpg" />
+    <Content Remove="wwwroot\img\SK-C-597.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\appController.cs" />
+  </ItemGroup>
+</Project>
